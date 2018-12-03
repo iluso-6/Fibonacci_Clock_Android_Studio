@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fibonacci Clock</string>
+    <string name="hour">Hour :</string>
+    <string name="minute">Min :</string>
+    <string name="redhour">5</string>
+    <string name="hr_result">9</string>
+    <string name="eq">=</string>
+    <string name="plus">+</string>
+    <string name="mult"> (*5)</string>
+    <string name="total">45</string>
+    <string name="greenmin">5</string>
+    <string name="bluecommon">4</string>
+    <string name="appwidget_text">EXAMPLE</string>
+</resources>
