@@ -10,17 +10,10 @@
 <br><br>
 
   </tr>
-  
-</table>
 
-</br></br>
-<table>
   <tr>
-    <td width="10%"></td>
-    <td height="640px"><img src="https://github.com/iluso-6/Fibonacci_Clock_Android_Studio/blob/master/screenshots/screen.gif?raw=true?"></td>
-    <td width="10%"></td>
 
-<br><br>
+   <img src="https://github.com/iluso-6/Fibonacci_Clock_Android_Studio/blob/master/screenshots/screen.gif?raw=true?">
 
   </tr>
   
