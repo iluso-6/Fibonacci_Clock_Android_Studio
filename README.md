@@ -28,7 +28,7 @@
   </tr>
   
 </table>
-
+<br><br>
 <table>
 		<th colspan="3">Landscape</th>
   <tr>
