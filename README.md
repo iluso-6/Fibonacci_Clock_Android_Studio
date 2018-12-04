@@ -19,7 +19,7 @@
      
 
 <table>
-		<th colspan="3">Main Activity (Gif)</th>
+		<th colspan="3">Main Activity <i>(Gif Image)</i></th>
   <tr>
      <td width="10%"></td>
     <td width="50%"><img src="https://github.com/iluso-6/Fibonacci_Clock_Android_Studio/blob/master/screenshots/screen.gif?raw=true?"></td>
