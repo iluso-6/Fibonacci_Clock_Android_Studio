@@ -29,4 +29,15 @@
   
 </table>
 
+<table>
+		<th colspan="3">Landscape</th>
+  <tr>
+     <td width="10%"></td>
+    <td width="50%"><img src="https://github.com/iluso-6/Fibonacci_Clock_Android_Studio/blob/master/screenshots/screen.gif?raw=true?"></td>
+    <td width="10%"></td>
+
+  </tr>
+  
+</table>
+
 
